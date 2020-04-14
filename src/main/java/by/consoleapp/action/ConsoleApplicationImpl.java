@@ -131,7 +131,7 @@ public class ConsoleApplicationImpl implements ConsoleApplication {
                                 userAction.updateLastName();
                                 continue;
                             case 3:
-                                userAction.updatePasswordl();
+                                userAction.updatePassword();
                                 continue;
                             case 4:
                                 orderAction.showPersonalOrder();
@@ -224,7 +224,7 @@ public class ConsoleApplicationImpl implements ConsoleApplication {
                                 userAction.updateLastName();
                                 continue;
                             case 3:
-                                userAction.updatePasswordl();
+                                userAction.updatePassword();
                                 continue;
                             default:
                                 writer.write("Такой операции не существует!");
@@ -328,7 +328,7 @@ public class ConsoleApplicationImpl implements ConsoleApplication {
                                 userAction.updateLastName();
                                 continue;
                             case 3:
-                                userAction.updatePasswordl();
+                                userAction.updatePassword();
                                 continue;
                             default:
                                 writer.write("Такой операции не существует!");
