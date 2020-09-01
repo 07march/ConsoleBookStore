@@ -1,6 +1,6 @@
 # ConsoleBookStore
 
-Java stack: Postgres, Maven.
+Java stack: Spring, Postgres, Maven.
 
 Run: clone this repository --> open project in IDEA IDE.
 
